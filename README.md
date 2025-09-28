@@ -183,10 +183,7 @@ By completing this task, you will:
 
 * Push code, datasets, and screenshots to a **new GitHub repository**.
 * Add this `README.md`.
-* Submit repo link before **10:00 PM deadline**.
+
 
 ---
-
-## License
-
-MIT License — Free to use for learning and practice.
+.
